@@ -1,5 +1,5 @@
 <?php
-namespace Magezon\HelloWorld\Controller\Index;
+namespace Duong98\HelloWorld\Controller\Index;
 use Magento\Framework\View\Result\PageFactory;
 
 /**

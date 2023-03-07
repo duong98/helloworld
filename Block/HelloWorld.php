@@ -1,5 +1,5 @@
 <?php
-namespace Magezon\Helloworld\Block;
+namespace Duong98\Helloworld\Block;
 
 use \Magento\Framework\View\Element\Template;
 
