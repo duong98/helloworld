@@ -11,7 +11,7 @@
     <body>
         <referenceContainer name="page.messages">
         <container name="hello" htmlTag="div" htmlClass="pancakes-text">
-            <block class="Magezon\HelloWorld\Block\HelloWorld" name="helloworld" template="Magezon_HelloWorld::hello.phtml"/>
+            <block class="Duong98\HelloWorld\Block\HelloWorld" name="helloworld" template="Magezon_HelloWorld::hello.phtml"/>
         </container>
         </referenceContainer>
     </body>

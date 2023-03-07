@@ -1,4 +1,4 @@
 <?php
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magezon_HelloWorld', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Duong98_HelloWorld', __DIR__);

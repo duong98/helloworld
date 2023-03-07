@@ -1,19 +1,19 @@
 {
-    "name": "Magezon/helloworld",
-    "description": "Simple Hello World Module for Magento 2",
-    "type": "magento2-module",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+  "name": "duong98/helloworld",
+  "description": "Simple Hello World Module for Magento 2",
+  "type": "magento2-module",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "files": [
+      "registration.php"
     ],
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Magezon\\HelloWorld\\": ""
-        }
+    "psr-4": {
+      "Duong98\\HelloWorld\\": ""
     }
+  }
 }
